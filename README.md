@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Coder/Traveler/Father)`**
 
-I am a fulltime traveler with my family around the world. I began my coding carrer on May 18, 2023 with <a href="freecodecamp.org">freecodecamp.org</a>.
+I am a full time traveler with my family around the world. I began my coding carrer on May 18, 2023 with <a href="freecodecamp.org">freecodecamp.org</a>.
 ---
 
 ### :school:Languages
