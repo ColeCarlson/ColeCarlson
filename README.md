@@ -1,3 +1,3 @@
 # :airplane:Cole Carlson
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Coder/Traveler/Father)`**
